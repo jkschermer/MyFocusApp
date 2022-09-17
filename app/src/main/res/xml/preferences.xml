@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.SeekBarPreference
+        android:key="com.example.myfocusapp.timer_length"
+        android:title="Timer Length"
+        android:summary="For how many minutes should the timer run?"
+        android:defaultValue="25"
+        android:max="60"
+        />
+</androidx.preference.PreferenceScreen>

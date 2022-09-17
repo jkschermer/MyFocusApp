@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFocusApp</string>
+    <string name="home">Home</string>
+    <string name="task">Tasks</string>
+    <string name="setting">Settings</string>
+    <string name="show">Show</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+</resources>
