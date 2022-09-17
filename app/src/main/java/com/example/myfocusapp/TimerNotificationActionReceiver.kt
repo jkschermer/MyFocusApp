@@ -7,7 +7,6 @@ import com.example.myfocusapp.app.AppConstants
 import com.example.myfocusapp.app.TimerActivity.Companion.nowSeconds
 import com.example.myfocusapp.app.TimerActivity.Companion.removeAlarm
 import com.example.myfocusapp.app.TimerActivity.Companion.setAlarm
-import com.example.myfocusapp.app.TimerActivity
 import com.example.myfocusapp.presentation.TimerState
 import com.example.myfocusapp.util.NotificationUtil
 import com.example.myfocusapp.util.PrefUtil
